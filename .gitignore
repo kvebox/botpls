@@ -1,0 +1,6 @@
+node_modules
+.env
+config.json
+
+
+# invite: https://discord.com/oauth2/authorize?client_id=852687575407656990&scope=bot+applications.commands
